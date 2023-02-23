@@ -1,0 +1,14 @@
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\net6.0\LibrarySystem.Data.deps.json
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\net6.0\LibrarySystem.Data.runtimeconfig.json
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\net6.0\LibrarySystem.Data.dll
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\net6.0\LibrarySystem.Data.pdb
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\LibrarySystem.Data.csproj.AssemblyReference.cache
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\LibrarySystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\LibrarySystem.Data.AssemblyInfoInputs.cache
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\LibrarySystem.Data.AssemblyInfo.cs
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\LibrarySystem.Data.csproj.CoreCompileInputs.cache
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\LibrarySystem.Data.dll
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\refint\LibrarySystem.Data.dll
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\LibrarySystem.Data.pdb
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\LibrarySystem.Data.genruntimeconfig.cache
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\net6.0\ref\LibrarySystem.Data.dll

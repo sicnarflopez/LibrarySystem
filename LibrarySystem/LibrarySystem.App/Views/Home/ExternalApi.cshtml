@@ -1,0 +1,33 @@
+﻿@model List<HomeViewModel>
+
+<h4 class="text-center">External Api</h4>
+<hr />
+<div class="row justify-content-center">
+    <div class="form-group">
+        <table class="table" width="100%" id="questionsTable">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Owner</th>
+                    <th scope="col">Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var ctr = 1;
+                    foreach (var item in Model.ToList())
+                    {
+                        <tr>
+                            <th scope="row" width="5%">@ctr</th>
+                            <td><a class="link-success font-weight-bold" href="@item.Link" target="_blank">@item.Title</a></td>
+                            <td>@item.Owner</td>
+                            <td width="10%"><a asp-action="Details" asp-route-id="@item.Id" class="link-success font-weight-bold" target="_blank">View Details</a></td>
+                        </tr>
+                        ctr++;
+                    }
+                   }
+            </tbody>
+        </table>
+    </div>
+</div>

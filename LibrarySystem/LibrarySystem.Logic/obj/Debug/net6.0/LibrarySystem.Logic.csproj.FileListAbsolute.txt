@@ -1,0 +1,15 @@
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\bin\Debug\net6.0\LibrarySystem.Logic.deps.json
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\bin\Debug\net6.0\LibrarySystem.Logic.dll
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\bin\Debug\net6.0\LibrarySystem.Logic.pdb
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\bin\Debug\net6.0\LibrarySystem.Data.dll
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\bin\Debug\net6.0\LibrarySystem.Data.pdb
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\LibrarySystem.Logic.csproj.AssemblyReference.cache
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\LibrarySystem.Logic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\LibrarySystem.Logic.AssemblyInfoInputs.cache
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\LibrarySystem.Logic.AssemblyInfo.cs
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\LibrarySystem.Logic.csproj.CoreCompileInputs.cache
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\LibrarySystem.Logic.csproj.CopyComplete
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\LibrarySystem.Logic.dll
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\refint\LibrarySystem.Logic.dll
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\LibrarySystem.Logic.pdb
+F:\Projects\LibrarySystem\LibrarySystem\LibrarySystem.Logic\obj\Debug\net6.0\ref\LibrarySystem.Logic.dll

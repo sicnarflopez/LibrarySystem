@@ -1,0 +1,13 @@
+﻿@model DetailsViewModel
+@{
+    ViewData["Title"] = "Details Page";
+}
+<h4 class="text-center">Question Details</h4>
+<hr />
+<div class="row justify-content-center" style="padding:0 25% 0 25%">
+    <h5><a href="@Model.Link">@Model.Title</a></h5>
+    <span class="text-secondary">By: @Model.Owner</span>
+    <span class="text-secondary">Views: @Model.Views</span>
+    <span class="text-secondary">Tags: @Model.Tags</span>
+    <span class="text-secondary">Answered: @Model.IsAnswered</span>
+</div>
